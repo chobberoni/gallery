@@ -1,112 +1,4 @@
 {
-  "Sunset": [
-    {
-      "width": 1500,
-      "path": "./photos/Sunset/DSCF3620.jpg",
-      "height": 2000
-    },
-    {
-      "width": 1600,
-      "path": "./photos/Sunset/DSCF5784.jpg",
-      "height": 2000
-    },
-    {
-      "width": 1600,
-      "path": "./photos/Sunset/DSCF6512.jpg",
-      "height": 2000
-    }
-  ],
-  "Travel": [
-    {
-      "width": 1500,
-      "path": "./photos/Travel/20160406-20160505DSCF2086.jpg",
-      "height": 2000
-    },
-    {
-      "width": 1500,
-      "path": "./photos/Travel/20160407-20160506DSCF2292.jpg",
-      "height": 2000
-    },
-    {
-      "width": 2000,
-      "path": "./photos/Travel/IMG_7438.jpg",
-      "height": 1333
-    },
-    {
-      "width": 2000,
-      "path": "./photos/Travel/IMG_7575.jpg",
-      "height": 1500
-    },
-    {
-      "width": 1333,
-      "path": "./photos/Travel/IMG_7593.jpg",
-      "height": 2000
-    },
-    {
-      "width": 1500,
-      "path": "./photos/Travel/IMG_9227.jpg",
-      "height": 2000
-    },
-    {
-      "width": 2000,
-      "path": "./photos/Travel/IMG_9675.jpg",
-      "height": 1333
-    },
-    {
-      "width": 1500,
-      "path": "./photos/Travel/IMG_9863.jpg",
-      "height": 2000
-    },
-    {
-      "width": 1500,
-      "path": "./photos/Travel/IMG_9966.jpg",
-      "height": 2000
-    }
-  ],
-  "California": [
-    {
-      "width": 1500,
-      "path": "./photos/California/DSCF1894.jpg",
-      "height": 2000
-    },
-    {
-      "width": 1500,
-      "path": "./photos/California/DSCF2338.jpg",
-      "height": 2000
-    },
-    {
-      "width": 1500,
-      "path": "./photos/California/DSCF3168.jpg",
-      "height": 2000
-    },
-    {
-      "width": 1500,
-      "path": "./photos/California/DSCF3621.jpg",
-      "height": 2000
-    },
-    {
-      "width": 1600,
-      "path": "./photos/California/DSCF4538.jpg",
-      "height": 2000
-    }
-  ],
-  "Architecture": [
-    {
-      "width": 1333,
-      "path": "./photos/Architecture/DSCF7277.jpg",
-      "height": 2000
-    },
-    {
-      "width": 1333,
-      "path": "./photos/Architecture/DSCF7382.jpg",
-      "height": 2000
-    },
-    {
-      "width": 1600,
-      "path": "./photos/Architecture/DSCF7399.jpg",
-      "height": 2000
-    }
-  ],
   "People": [
     {
       "width": 2000,
@@ -157,6 +49,251 @@
       "width": 2000,
       "path": "./photos/People/IMG_7888.jpg",
       "height": 1250
+    }
+  ],
+  "Travel": [
+    {
+      "width": 1500,
+      "path": "./photos/Travel/20160406-20160505DSCF2086.jpg",
+      "height": 2000
+    },
+    {
+      "width": 1500,
+      "path": "./photos/Travel/20160407-20160506DSCF2292.jpg",
+      "height": 2000
+    },
+    {
+      "width": 2000,
+      "path": "./photos/Travel/IMG_7438.jpg",
+      "height": 1333
+    },
+    {
+      "width": 2000,
+      "path": "./photos/Travel/IMG_7575.jpg",
+      "height": 1500
+    },
+    {
+      "width": 1333,
+      "path": "./photos/Travel/IMG_7593.jpg",
+      "height": 2000
+    },
+    {
+      "width": 1500,
+      "path": "./photos/Travel/IMG_9227.jpg",
+      "height": 2000
+    },
+    {
+      "width": 2000,
+      "path": "./photos/Travel/IMG_9675.jpg",
+      "height": 1333
+    },
+    {
+      "width": 1500,
+      "path": "./photos/Travel/IMG_9863.jpg",
+      "height": 2000
+    },
+    {
+      "width": 1500,
+      "path": "./photos/Travel/IMG_9966.jpg",
+      "height": 2000
+    }
+  ],
+  "Sunset": [
+    {
+      "width": 1500,
+      "path": "./photos/Sunset/DSCF3620.jpg",
+      "height": 2000
+    },
+    {
+      "width": 1600,
+      "path": "./photos/Sunset/DSCF5784.jpg",
+      "height": 2000
+    },
+    {
+      "width": 1600,
+      "path": "./photos/Sunset/DSCF6512.jpg",
+      "height": 2000
+    }
+  ],
+  "Architecture": [
+    {
+      "width": 1333,
+      "path": "./photos/Architecture/DSCF7277.jpg",
+      "height": 2000
+    },
+    {
+      "width": 1333,
+      "path": "./photos/Architecture/DSCF7382.jpg",
+      "height": 2000
+    },
+    {
+      "width": 1600,
+      "path": "./photos/Architecture/DSCF7399.jpg",
+      "height": 2000
+    }
+  ],
+  "Faces": [
+    {
+      "width": 2464,
+      "path": "./photos/Faces/alexroth2.JPG",
+      "height": 1632
+    },
+    {
+      "width": 2464,
+      "path": "./photos/Faces/alice3.JPG",
+      "height": 1632
+    },
+    {
+      "width": 1632,
+      "path": "./photos/Faces/Angeledits7.JPG",
+      "height": 2464
+    },
+    {
+      "width": 2464,
+      "path": "./photos/Faces/base2.JPG",
+      "height": 1632
+    },
+    {
+      "width": 2464,
+      "path": "./photos/Faces/billy14.JPG",
+      "height": 1632
+    },
+    {
+      "width": 2464,
+      "path": "./photos/Faces/carlos5.JPG",
+      "height": 1632
+    },
+    {
+      "width": 2464,
+      "path": "./photos/Faces/cassandra2.JPG",
+      "height": 1632
+    },
+    {
+      "width": 2464,
+      "path": "./photos/Faces/evan10.JPG",
+      "height": 1632
+    },
+    {
+      "width": 2464,
+      "path": "./photos/Faces/IMG_1867.JPG",
+      "height": 1632
+    },
+    {
+      "width": 2464,
+      "path": "./photos/Faces/IMG_2455.JPG",
+      "height": 1632
+    },
+    {
+      "width": 2464,
+      "path": "./photos/Faces/IMG_2548.JPG",
+      "height": 1632
+    },
+    {
+      "width": 5616,
+      "path": "./photos/Faces/IMG_2876.JPG",
+      "height": 3744
+    },
+    {
+      "width": 1848,
+      "path": "./photos/Faces/IMG_68A5D8C91B32-1.jpeg",
+      "height": 1224
+    },
+    {
+      "width": 2464,
+      "path": "./photos/Faces/jeff7.JPG",
+      "height": 1632
+    },
+    {
+      "width": 2464,
+      "path": "./photos/Faces/jonruskin5.JPG",
+      "height": 1632
+    },
+    {
+      "width": 2464,
+      "path": "./photos/Faces/jordan_5.jpg",
+      "height": 1632
+    },
+    {
+      "width": 2464,
+      "path": "./photos/Faces/krisEdit2.JPG",
+      "height": 1632
+    },
+    {
+      "width": 2464,
+      "path": "./photos/Faces/larry6.JPG",
+      "height": 1632
+    },
+    {
+      "width": 2464,
+      "path": "./photos/Faces/mary10.JPG",
+      "height": 1632
+    },
+    {
+      "width": 2464,
+      "path": "./photos/Faces/mendyEdits15.JPG",
+      "height": 1632
+    },
+    {
+      "width": 2464,
+      "path": "./photos/Faces/mikecEdit2.JPG",
+      "height": 1632
+    },
+    {
+      "width": 2464,
+      "path": "./photos/Faces/morganebw.JPG",
+      "height": 1632
+    },
+    {
+      "width": 2464,
+      "path": "./photos/Faces/pamela2.JPG",
+      "height": 1632
+    },
+    {
+      "width": 2464,
+      "path": "./photos/Faces/sheetal0.JPG",
+      "height": 1632
+    },
+    {
+      "width": 1632,
+      "path": "./photos/Faces/sidney6.JPG",
+      "height": 2464
+    },
+    {
+      "width": 2464,
+      "path": "./photos/Faces/sonam5.JPG",
+      "height": 1632
+    },
+    {
+      "width": 2464,
+      "path": "./photos/Faces/terian3.jpg",
+      "height": 1632
+    }
+  ],
+  "California": [
+    {
+      "width": 1500,
+      "path": "./photos/California/DSCF1894.jpg",
+      "height": 2000
+    },
+    {
+      "width": 1500,
+      "path": "./photos/California/DSCF2338.jpg",
+      "height": 2000
+    },
+    {
+      "width": 1500,
+      "path": "./photos/California/DSCF3168.jpg",
+      "height": 2000
+    },
+    {
+      "width": 1500,
+      "path": "./photos/California/DSCF3621.jpg",
+      "height": 2000
+    },
+    {
+      "width": 1600,
+      "path": "./photos/California/DSCF4538.jpg",
+      "height": 2000
     }
   ]
 }
