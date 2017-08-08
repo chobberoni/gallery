@@ -19,6 +19,7 @@ def get_directories():
 def is_image_path(path):
     return path.endswith('jpg') or \
            path.endswith('jpeg') or \
+           path.endswith('JPG') or \
            path.endswith('png')
 
 
