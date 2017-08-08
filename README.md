@@ -1,7 +1,4 @@
 # Gallery
-A photography portfolio generator with web hosting for your photo albums. Requires no 3rd party libraries or installations. A 🤑free🤑 Squarespace alternative for your photos. Live demo at http://andyzhang.net/gallery
-
-![demo](./demo.gif)
 
 *Gallery is a side project of mine to allow me to create a more curated version of my photography portfolio. It's intended to have a simple setup process that is accessible by anyone. If you have any feedback for Gallery, [drop me a line](mailto:andzhng@gmail.com?Subject=Hey!) :)*
 
@@ -11,7 +8,7 @@ A photography portfolio generator with web hosting for your photo albums. Requir
 
 ## Making your own gallery in less than 5 minutes
 - Fork this repository🍴
-- Clone the repository through terminal by running 
+- Clone the repository through terminal by running
 `git clone git@github.com:{YOUR_USERNAME}/gallery.git`
 - Replace contents of `/photos` with all of your albums. For each of your albums, create a folder with the same name as your album name, and then put all of your photos in the folder. Example:
 ```
