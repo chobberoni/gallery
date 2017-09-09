@@ -1,8 +1,8 @@
 # Name of your blog (this will show up at the top of your page and in the RSS feed)
-name: HobbsvHobbes
+name: HobbsvHobbes Images
 
 # Short description (goes below the title; it will also be used in the RSS feed)
-description: Life's eye
+description: Capture life when you can.
 
 # Your name, as you want it to appear underneath each post and in the footer
 author: Corey Hobbs
@@ -28,7 +28,7 @@ baseurl: /
 #############################
 
 # The title that appears on the tab
-title: Life's eye
+title: HobbsvHobbes Images
 
 # The title on the web page
 full_name: Corey Hobbs
