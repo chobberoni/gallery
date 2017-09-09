@@ -2,7 +2,7 @@
 name: HobbsvHobbes
 
 # Short description (goes below the title; it will also be used in the RSS feed)
-description: HobbsvHobbes
+description: Life's eye
 
 # Your name, as you want it to appear underneath each post and in the footer
 author: Corey Hobbs
@@ -28,7 +28,7 @@ baseurl: /
 #############################
 
 # The title that appears on the tab
-title: HobbsvHobbes
+title: Life's eye
 
 # The title on the web page
 full_name: Corey Hobbs
